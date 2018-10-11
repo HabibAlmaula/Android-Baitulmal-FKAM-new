@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragment.LayananFragment">
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        
+        <ImageView
+            android:id="@+id/quran"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/quran"
+            android:layout_height="200dp" />
+        
+        <ImageView
+            android:id="@+id/kalkulator"
+            android:layout_weight="1"
+            android:src="@drawable/kalkulator"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp" />
+        
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        
+        <ImageView
+            android:id="@+id/hisnul"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:src="@drawable/hisnul"
+            android:layout_height="200dp" />
+        <ImageView
+            android:id="@+id/adzan"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:src="@drawable/jadwal_sholat"
+            android:layout_height="200dp" />
+    </LinearLayout>
+    
+
+</LinearLayout>

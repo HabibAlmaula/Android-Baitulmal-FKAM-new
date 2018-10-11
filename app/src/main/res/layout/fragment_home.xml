@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="5dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragment.HomeFragment">
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floating_buttton"
+        app:fabSize="normal"
+        app:borderWidth="0dp"
+        app:backgroundTint="@color/white"
+        app:elevation="2dp"
+        android:src="@drawable/donate2"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_gravity="bottom|center"
+        app:layout_behavior="com.baitulmalfkam.baitulmalfkam.ScrollAwareFABBehavior"
+        android:layout_height="wrap_content" />
+
+   <!-- <com.robertlevonyan.views.customfloatingactionbutton.FloatingActionButton
+        android:id="@+id/floating_buttton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        app:fabSizes="mini"
+        app:fabType="roundedSquare"
+        app:fabText="Donasi Sekarang !"
+        android:textStyle="bold"
+        app:fabColor="@color/floating"
+        app:fabIcon="@drawable/ic_give"
+        android:layout_gravity="center|bottom"
+        /> -->
+
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/nested"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.smarteist.autoimageslider.SliderLayout
+                android:id="@+id/slider_image"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                />
+            <View
+                android:id="@+id/shadow"
+                android:layout_width="300dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="15dp"
+                android:layout_height="3dp"
+                android:background="@drawable/toolbar_dropshadow"
+                android:layout_below="@id/toolbar"/>
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:id="@+id/rv_content"
+                android:layout_marginTop="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:listitem="@layout/news_model">
+
+            </android.support.v7.widget.RecyclerView>
+
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+
+
+
+
+</android.support.design.widget.CoordinatorLayout>

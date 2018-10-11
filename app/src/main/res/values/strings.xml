@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Baitulmal FKAM</string>
+    <string name="home">Home</string>
+    <string name="majalah">Majalah</string>
+    <string name="donasi">Donasi</string>
+    <string name="layanan">Layanan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_udin">ActivityUdin</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_daer">DaerActivity</string>
+    <string name="program">Program</string>
+
+    <string name="dhuafa_smart">
+          <![CDATA[
+        Kemiskinan begitu lekat dengan kepapaan, ketidakberdayaan dan kelemahan. Dan kemiskinan masih menjadi masalah utama bangsa ini. Kita harus meyakini bahwa persoalan kemiskinan itu bisa diminimalisir. Tidak hanya sekedar tekad yang kuat, namun diperlukan pula sinergi dan kerja sama  seluruh komponen bangsa untuk mengatasinya.<br><br>
+        
+        Meminimalisasi kemiskinan bukan hanya tugas pemerintah atau lembaga amil zakat saja, namun hal ini menjadi tugas bersama kita semua sebagai komponen bangsa.<br><br>
+        
+        <strong>Program Dhuafa Smart</strong> adalah Program pemberdayaan masyarakat yang bersifat transparan, selektif, kreatif dan produktif. Tujuannya menjadikan kaum dhuafa lebih sejahtera, mandiri dan bermartabat. Selain itu juga untyuk memastikan dana yang dihimpun Baitulmal FKAM dapat tersalurkan dengan tepat sasaran dan berdampak nyata, bukan sekedar tersampaikan kepada mustahik saja.
+        <blockquote>Potensi penghimpunan zakat infaq dan shadaqah (ZIS) yang dimiliki kaum muslimin di Indonesia sangatlah besar. Dana ZIS yang terhimpun di Baitulmal FKAM dikelola dengan baik, transparan, dan akuntabel. Sehingga program Dhuafa Smart ini bisa menjadi solusi alternatif dalam pengentasan kemiskinan, memberdayakan dan membangun serta meningkatkan kualitas umat.</blockquote>
+        <strong>Program Dhuafa Smart</strong> adalah Program pemberdayaan kaum dhuafa yang mengintegrasikan aspek spiritual, sosial, entrepreneur dan ekonomi produktif yang pendanaan utamanya bersumber dari donasi masyarakat baik berupa zakat infaq maupun sedekah dalam rangka meningkatkan kesejahteraan, kemandirian dan martabat kehidupan kaum dhuafa. Tujuan yang lainnya adalah membangun kesadaran masyarakat untuk peduli sesama, terkhusus terhadap kaum dhuafa yang tentu saja sangat membutuhkan perhatian dan kepedulian para muzakki dan muhsinin.
+        <blockquote>Program Dhuafa SMART ini meliputi:
+        1. Penggalian potensi dan menyelenggarakan pelatihan kewirausahaan
+        2. Pengadaan training motivasi dan mengubah mindset
+        3. Bantuan modal usaha serta sarana dan prasarannya
+        4. Pembinaan dan pemberian bimbingan rutin</blockquote>
+        <strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.
+        
+        Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan kesejahteraan dan kemandirian kaum dhuafa, dengan penuh semangat kebersamaan berbagi dan peduli sesama.]]>
+    </string>
+
+    <string name="yatim_smart">
+          <![CDATA[
+        Rasulullah SAW memberikan perhatian yang sangat besar kepada anak yatim. Beliau SAW bersabda, “Aku dan pengasuh anak yatim (kelak) di surga seperti dua jari ini.” (Rasulullah SAW menunjuk jari telunjuk dan jari tengah dan merapatkan keduanya.) Demikianlah jaminan Rosulullah SAW bagi mereka yang mau memperhatikan kehidupan anak yatim, peduli terhadap kesulitan yang mereka hadapi, dan memberikan kebahagiaan bagi mereka. Jaminan tersebut adalah surga bersama dengan Rasulullah SAW.<br><br>
+
+<strong>Program Yatim Smart</strong> merupakan program pemberdayaan anak yatim berbasis masjid. Program Yatim SMART ini diadakan untuk membantu pendidikan, kesehatan, psikis, fisik, skill dan tumbuh kembang anak yatim. Kegiatan dengan anak yatim yang berbasis masjid ini meliputi:<br>
+<ol>
+ 	<li>Menginisiasi, mengedukasi, dan mengkordinir kepedulian masyarakat terhadap anak yatim.</li>
+ 	<li>Bersama takmir masjid membentuk tim peduli yatim.</li>
+ 	<li>Bea siswa pendidikan.</li>
+ 	<li>Bantuan biaya kesehatan.</li>
+ 	<li>Peningkatan life skill.</li>
+ 	<li>Mengadakan pembinaan dan bimbingan rutin.</li>
+ 	<li>Mengadakan monitoring dan evaluasi berkala.</li>
+</ol>
+<strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.<br><br>
+
+Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan kesejahteraan dan kemandirian anak yatim, dengan penuh semangat kebersamaan berbagi dan peduli sesama.]]>
+    </string>
+
+    <string name="muslim_medical">
+          <![CDATA[
+        
+        Kesehatan merupakan kebutuhan yang sangat mahal. Ketika seseorang sakit, maka semua harta rela dikorbankan asalkan ia dapat kembali sehat. Jika ia mampu, bisa saja ia menempuh pengobatan yang mahal. Akan tetapi, ternyata masih banyak dijumpai fakir miskin yang tisak bisa berobat karena mahalnya biaya pengobatan.
+
+Mengingat kondisi demikian, BaitulMal FKAM tergerak untuk memberikan pelayanan kesehatan bagi masyarakat secara umum. Program ini meliputi:
+<ol>
+ 	<li><b>Pengobatan gratis</b>,<b> </b>bertujuan untuk memberikan pelayanan pengobatan secara gratis, terutama bagi fakir miskin.</li>
+ 	<li><b>Khitanan masal</b>,<b> </b>bertujuan membantu masyarakat dalam menghidupkan sunnah Rasulullah Saw yakni khitan, yang ditujukan bagi mereka yang berminat dan diutamakan bagi masyarakat yang kurang mampu.</li>
+ 	<li><b>Taman gizi balita</b>,<b> </b>bertujuan<b> </b>memberikan suplemen gizi untuk balita bagi masyarakat yang kurang mampu karena mengingat biaya hidup yang semakin mahal.</li>
+ 	<li><b>Ambulan gratis</b>,<b> </b>bertujuan untuk memberikan pelayanan mobil ambulan bagi masyarakat kurang mampu.</li>
+ 	<li><b>Santunan persalinan</b>,<b> </b>bertujuan<b> </b>untuk meringankan biaya persalinan bagi masyarakat yang kurang mampu.</li>
+</ol>
+<strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.
+
+Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan kesejahteraan dan pelayanan kesehatan masyarakat, dengan penuh semangat kebersamaan berbagi dan peduli sesama.]]>
+
+    </string>
+
+    <string name="dakwah_pendidikan">
+          <![CDATA[
+        Selain merupakan kewajiban syar’i, dakwah juga merupakan kebutuhan masyarakat. Karena dengan dakwah, masyarakat mampu memahami nilai-nilai ajaran Islam melalui sentuhan lembut para da’i yang bijak, para penunjuk jalan yang tegar, dan para mubaligh yang sabar sehingga mampu mengaplikasikan ajaran mulia tersebut. Dakwah merupakan muara segala kebaikan, benteng penangkal siksa, dan sarana menghantarkan doa para hamba kepada Rabbnya.
+
+BaitulMal FKAM ikut ambil bagian dalam pengembangan dakwah Islam ini melalui program:
+<ol>
+ 	<li><b>PDM (Praktek Dakwah Masyarakat)</b>, dengan pengiriman da’i diprioritaskan ke daerah-daerah yang sangat membutuhkan, seperti daerah terpencil dan daerah bencana yang sangat membutuhkan dukungan moril dan sentuhan-sentuhan dakwah, tidak sekadar kebutuhan materi saja.</li>
+ 	<li><b>Santunan da’i,</b> meliputi kafalah da’i dan santunan keluarga da’i.</li>
+ 	<li><b>Pembelajaran Al-Qur’an</b>, meliputi kegiatan belajar tarjamah Al Qur'an dengan metode <strong>Al Bayan</strong>, tahsin, dan baca tulis Al-Qur’an.</li>
+ 	<li><b>Penyelenggaraan kajian</b>, meliputi kegiatan-kegiatan seminar, tabligh akbar, dan bedah buku.</li>
+ 	<li><b>Pengembangan dakwah dan pendidikan</b>, melalui pelatihan da’i, pembuatan materi dakwah, penyebaran buku Islam, serta pendidikan da'i dan imam masjid di <strong>Akademi Al Qur'an FKAM </strong>Klaten.</li>
+</ol>
+<strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.
+
+Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan penyelenggaraan kegiatan dakwah dan pendidikan Islam, dengan penuh semangat kebersamaan berbagi dan peduli sesama.]]>
+
+    </string>
+
+    <string name="tanggap_bencana">
+          <![CDATA[
+        
+        <strong>Program Tanggap Bencana Alam</strong>  ini bertujuan untuk memberikan pelayanan bagi masyarakat di daerah-daerah yang terkena bencana alam, dengan cara penggalangan dana dari masyarakat umum. untuk kemudian disalurkan ke masyarakat yang tertimpa bencana. Secara singkat, program tanggap bencana yang diselenggarakan oleh BaitulMal FKAM meliputi:
+<ol>
+ 	<li><b>Emergency respon</b>, yaitu pengiriman tim medis dan tim SAR ke daerah bencana.</li>
+ 	<li><b>Pembangunan Huntara</b>, dengan memberikan hunian sementara yang terbuat dari papan, agar lebih nyaman daripada harus tinggal di tenda-tenda darurat.</li>
+ 	<li><b>Bantuan logistik</b>, merupakan bagian dari tanggap darurat bencana mengingat logistik sebagai kebutuhan dasar.</li>
+ 	<li><b>Penangan psikososial</b>, yang dilaksanakan dalam rentang waktu yang panjang dengan tujuan untuk merehabilitasi mental dan memberikan sentuhan ruhani bagi korban bencana.</li>
+ 	<li><b>Pembangunan sarana umum</b>, bertujuan untuk memudahkan masyarakat korban bencana alam dalam memenuhi kebutuhan sarana umum.</li>
+ 	<li><b>Pengadaan kegiatan pendidikan dan  pelatihan relawan</b>, dengan bekerjasama dengan tim SAR FKAM yang mendelegasikan anggotanya untuk mengikuti pelatihan-pelatihan penanganan bencana.</li>
+</ol>
+<strong>Baitulmal FKAM</strong> merupakan lembaga nirlaba yang resmi dan legal, serta telah mendapatkan pengukuhan dari Kementerian Agama Republik Indonesia melalui Surat Keputusan Nomor DJ.III/392 Tahun 2016 sebagai Lembaga Amil Zakat.
+
+Kami mengajak segenap komponen masyarakat untuk bersama mewujudkan kesejahteraan dan penanganan korban dampak bencana, dengan penuh semangat kebersamaan berbagi dan peduli sesama.]]>
+    </string>
+
+    <string name="sarana_ibadah">
+          <![CDATA[
+        
+        Kedudukan masjid sangat penting bagi umat Islam, sebagai sarana ibadah, menuntut ilmu, bahkan Rasulullah Saw menjadikannya sebagai pusat pemerintahan. Masjid juga menjadi sentral dakwah Islam, menjadi tolok ukur persatuan umat, dan sebagai tempat untuk membahas permasalahan yang ada di dalam masyarakat sehingga bisa dicari solusinya berdasarkan Al-Qur’an dan As-Sunnah. Masjid juga dapat difungsikan sebagai sarana pendidikan. Misalnya, Taman Pendidikan Al-Qur’an yang menanamkan dasar-dasar Islam putra-putri kita yang merupakan penerus estafet dakwah pada masa yang akan datang.
+
+Mengingat kedudukan masjid sangat strategis bagi umat Islam, maka BaitulMal FKAM mempunyai Program Pembangunan Sarana Ibadah, yakni meliputi:
+<ol>
+ 	<li><b>Pembangunan masjid dan program renovasi masjid</b>. Program ini diupayakan bekerjasama dengan lembaga donor ataupun dari masyarakat muslim secara umum.</li>
+ 	<li><b>Pengadaan kelengkapan masjid</b>. Program ini diupayakan ialah untuk memenuhi keperluan ibadah umat Islam. Untuk masjid-masjid jami’ atau masjid yang sering menjadi tempat persinggahan musafir adalah diutamakan.</li>
+</ol>
+]]>
+    </string>
+    <string name="kotoran">
+        <![CDATA[
+
+<div id="vfb-form-1" class="visual-form-builder-container"><form id="konfirmasi-1" class="visual-form-builder vfb-form-1 " method="post" enctype="multipart/form-data"> <input type="hidden" name="form_id" value="1" /><fieldset class="vfb-fieldset vfb-fieldset-1 konfirmasi-setelah-anda-transfer-donasi " id="item-vfb-1"><div class="vfb-legend"><h3>Konfirmasi setelah anda transfer donasi</h3></div><ul class="vfb-section vfb-section-1"><li class="vfb-item vfb-item-text   vfb-left-half" id="item-vfb-5"><label for="vfb-5" class="vfb-desc">Nama Lengkap </label><input type="text" name="vfb-5" id="vfb-5" value="" class="vfb-text  vfb-small   " /></li><li class="vfb-item vfb-item-text   vfb-left-half" id="item-vfb-82"><label for="vfb-82" class="vfb-desc">Alamat Lengkap </label><input type="text" name="vfb-82" id="vfb-82" value="" class="vfb-text  vfb-medium   " /></li><li class="vfb-item vfb-item-phone  " id="item-vfb-20"><label for="vfb-20" class="vfb-desc">No. HP (Whatsapp) </label><input type="tel" name="vfb-20" id="vfb-20" value="" class="vfb-text  vfb-medium   phone " /></li><li class="vfb-item vfb-item-email  " id="item-vfb-18"><label for="vfb-18" class="vfb-desc">Email </label><input type="email" name="vfb-18" id="vfb-18" value="" class="vfb-text  vfb-medium   email " /></li><li class="vfb-item vfb-item-currency  " id="item-vfb-22"><label for="vfb-22" class="vfb-desc">Jumlah Donasi </label><input type="text" name="vfb-22" id="vfb-22" value="" class="vfb-text  vfb-medium   number " /></li><li class="vfb-item vfb-item-checkbox  " id="item-vfb-23"><label class="vfb-desc">Cara Donasi </label><div><span><label>* Ceklist salah satu cara donasi yang Anda lakukan</label></span><span class="vfb-span"><input type="checkbox" name="vfb-23[]" id="vfb-23-0" value="Transfer ATM" class="vfb-checkbox  " /><label for="vfb-23-0" class="vfb-choice">Transfer ATM</label></span><span class="vfb-span"><input type="checkbox" name="vfb-23[]" id="vfb-23-1" value="Internet Banking" class="vfb-checkbox  " /><label for="vfb-23-1" class="vfb-choice">Internet Banking</label></span><span class="vfb-span"><input type="checkbox" name="vfb-23[]" id="vfb-23-2" value="Mobile Banking" class="vfb-checkbox  " /><label for="vfb-23-2" class="vfb-choice">Mobile Banking</label></span><div style="clear:both"></div></div></li><li class="vfb-item vfb-item-date  " id="item-vfb-13"><label for="vfb-13" class="vfb-desc">Tanggal Donasi </label><input type="text" name="vfb-13" id="vfb-13" value="" class="vfb-text vfb-date-picker  vfb-small  " data-dp-dateFormat="mm/dd/yy" /></li><li class="vfb-item vfb-item-text  " id="item-vfb-14"><label for="vfb-14" class="vfb-desc">Nama Bank Asal </label><input type="text" name="vfb-14" id="vfb-14" value="" class="vfb-text  vfb-medium   " /></li><li class="vfb-item vfb-item-select  " id="item-vfb-25"><label for="vfb-25" class="vfb-desc">Rekening Tujuan dan Jenis Donasi </label><span class="vfb-span"><label>Bank Syariah Mandiri & CIMB NIaga Syariah</label></span><select name="vfb-25" id="vfb-25" class="vfb-select  vfb-medium  "><option value="BSM 7002076203 (Zakat)">BSM 7002076203 (Zakat)</option><option value="BSM 7002074284 (Infaq dan Shadaqah)">BSM 7002074284 (Infaq dan Shadaqah)</option><option value="BSM 7002063411 (Yatim)">BSM 7002063411 (Yatim)</option><option value="BSM 7048694262 (Dhuafa)">BSM 7048694262 (Dhuafa)</option><option value="BSM 7002074286 (Tanggap Bencana)">BSM 7002074286 (Tanggap Bencana)</option><option value="BSM 7048694424 (Pemb. Sarana Ibadah)">BSM 7048694424 (Pemb. Sarana Ibadah)</option><option value="BSM 7083865711 (Kesehatan)">BSM 7083865711 (Kesehatan)</option><option value="BSM 7083865878 (Dakwah dan Pendidikan)">BSM 7083865878 (Dakwah dan Pendidikan)</option><option value="CIMB Niaga 7609 8688 0100 (zakat)">CIMB Niaga 7609 8688 0100 (zakat)</option><option value="CIMB Niaga 7609 8687 1800 (Infaq dan Shadaqah)">CIMB Niaga 7609 8687 1800 (Infaq dan Shadaqah)</option><option value="CIMB Niaga 7609 8687 6800 (Wakaf)">CIMB Niaga 7609 8687 6800 (Wakaf)</option></select></li><li class="vfb-item vfb-item-file-upload  " id="item-vfb-17"><label for="vfb-17" class="vfb-desc">Lampiran Bukti Transfer </label><span class="vfb-span"><input type="file" name="vfb-17" id="vfb-17" value="" class="vfb-text  vfb-medium     {accept:'png|jpe?g|gif'}" /><label>Unggah Bukti Transfer Donasi Anda</label></span></li></ul>&nbsp;</fieldset><fieldset class="vfb-fieldset vfb-fieldset-2 verification " id="item-vfb-2" style="display:block"><div class="vfb-legend"><h3>Verification</h3></div><ul class="vfb-section vfb-section-2"><li class="vfb-item vfb-item-secret"  style="display:block"><label for="vfb-3" class="vfb-desc">Please enter any two digits with no spaces (Example: 12) <span class="vfb-required-asterisk">*</span></label><input type="hidden" name="_vfb-secret" value="vfb-3" /><input type="text" name="vfb-3" id="vfb-3" value="" class="vfb-text  vfb-medium  required {digits:true,maxlength:2,minlength:2} " style="display:block" /><li style="display:none;"><label>This box is for spam protection - <strong>please leave it blank</strong>:</label><div><input name="vfb-spam" /></div></li> <li class="vfb-item vfb-item-submit" id="item-vfb-4"> <input type="submit" name="vfb-submit" id="vfb-4" value="Kirim" class="vfb-submit " /> </li></ul> </fieldset><input type="hidden" name="_wp_http_referer" value="/wp-json/wp/v2/posts" /></form></div> <!-- .visual-form-builder-container -->]]>
+
+    </string>
+
+
+</resources>
